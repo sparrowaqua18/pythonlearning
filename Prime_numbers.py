@@ -8,7 +8,6 @@ while a < i:
         if i%a == 0:
             print("Factor", x)
             print(a)
-            int(x)
             x = x+1
 if x > 2:
     print("The integer is composite")
